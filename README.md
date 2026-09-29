@@ -7,3 +7,7 @@ These policies could be up to date, most recent versions will be committed when 
 This repository contains;
 - policies
 - codebase licenses
+
+## Licenses
+[NullCloud Source Available License]()
+[NullCloud Contributor License Agreement]()
